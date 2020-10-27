@@ -1,0 +1,379 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<app-ops v="1">
+<uid n="1001">
+<op n="15" m="0" />
+</uid>
+<pkg n="com.android.phone">
+<uid n="0" p="false">
+<op n="75" m="0" />
+</uid>
+</pkg>
+<pkg n="android">
+<uid n="1000" p="true">
+<op n="0" tp="1599429360985" pu="0" />
+<op n="1" tp="1599429367043" pu="0" />
+<op n="27" tp="1599316040827" pu="0" />
+<op n="40" tp="1599429369814" d="5" />
+<op n="41" tp="1599429365064" d="5009" />
+<op n="43" rp="1599429367061" />
+</uid>
+</pkg>
+<pkg n="com.android.server.telecom">
+<uid n="1000" p="true">
+<op n="6" tp="1599429366740" pu="0" pp="com.android.providers.blockednumber" />
+</uid>
+</pkg>
+<pkg n="com.android.keychain">
+<uid n="1000" p="false">
+<op n="59" tp="1599429365691" pu="0" />
+<op n="60" tp="1599429365691" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.android.settings">
+<uid n="1000" p="true">
+<op n="59" tp="1599429359978" pu="0" />
+<op n="60" tp="1599429359978" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.android.location.fused">
+<uid n="1000" p="true">
+<op n="27" tp="1599429359533" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.android.providers.telephony">
+<uid n="1001" p="true">
+<op n="15" m="0" />
+</uid>
+</pkg>
+<pkg n="com.android.mms.service">
+<uid n="1001" p="true">
+<op n="15" m="0" />
+</uid>
+</pkg>
+<pkg n="com.android.phone">
+<uid n="1001" p="true">
+<op n="14" tp="1599429367576" />
+<op n="15" m="0" tp="1599429361210" pu="0" />
+<op n="20" tp="1599316047989" pu="0" />
+<op n="40" tp="1599429366800" d="1" />
+<op n="59" tc="1599429359875" pu="0" />
+<op n="60" tc="1599429359875" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.android.bluetooth">
+<uid n="1002" p="false">
+<op n="15" m="0" />
+</uid>
+</pkg>
+<pkg n="com.android.nfc">
+<uid n="1027" p="false">
+<op n="59" tb="1599316049336" tc="1599316049292" pu="0" />
+<op n="60" tb="1599316049336" tc="1599316049292" pu="0" />
+</uid>
+</pkg>
+<pkg n="audioserver">
+<uid n="1041" p="false">
+<op n="40" tc="1599429369682" d="3010" />
+</uid>
+</pkg>
+<pkg n="com.android.se">
+<uid n="1068" p="false">
+<op n="59" tc="1599429365361" pu="0" />
+<op n="60" tc="1599429365361" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.android.shell">
+<uid n="2000" p="true" />
+</pkg>
+<pkg n="com.android.providers.blockednumber">
+<uid n="10006" p="true">
+<op n="4" tfs="1599316049627" tf="1599429368822" tb="1599429366345" />
+<op n="6" tf="1599429366740" tb="1599429366654" tc="1599429365465" />
+<op n="7" tb="1599429366660" tc="1599429365474" />
+<op n="52" tb="1599316047970" tc="1599316047953" />
+<op n="59" tc="1599429361136" pu="0" />
+<op n="60" tc="1599429361136" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.configupdater">
+<uid n="10007" p="true">
+<op n="59" tc="1599429367931" pu="0" />
+<op n="60" tc="1599429367931" pu="0" />
+<op n="63" tb="1599429367993" tc="1599429367930" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.sdksetup">
+<uid n="10011" p="true">
+<op n="59" tc="1599316043002" pu="0" />
+<op n="60" tc="1599316043002" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.apps.wallpaper">
+<uid n="10012" p="true">
+<op n="59" tc="1599429367763" pu="0" />
+<op n="60" tc="1599429367763" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.android.providers.media">
+<uid n="10014" p="true">
+<op n="23" rfs="1599316050512" />
+<op n="40" tfs="1599316049553" tf="1599429367227" tb="1599429366350" d="123" />
+</uid>
+</pkg>
+<pkg n="com.android.providers.downloads">
+<uid n="10014" p="true">
+<op n="59" tfs="1599316050719" tf="1599429366967" tb="1599429366281" tc="1599429365366" pu="0" />
+<op n="60" tfs="1599316050719" tf="1599429366967" tb="1599429366281" tc="1599429365366" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.android.contacts">
+<uid n="10015" p="true">
+<op n="59" tc="1599429366751" pu="0" />
+<op n="60" tc="1599429366751" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.setupwizard">
+<uid n="10016" p="true">
+<op n="59" tc="1599429369302" pu="0" />
+<op n="60" tc="1599429369302" pu="0" />
+<op n="71" tt="1599316043292" tb="1599429369440" pu="0" />
+<op n="76" tt="1599316047364" tfs="1599316047365" tb="1599316047365" d="4242" />
+</uid>
+</pkg>
+<pkg n="com.android.carrierconfig">
+<uid n="10019" p="true">
+<op n="59" tc="1599316042618" pu="0" />
+<op n="60" tc="1599316042618" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.apps.nexuslauncher">
+<uid n="10022" p="true">
+<op n="0" />
+<op n="1" tt="1599429367745" pu="0" />
+<op n="43" rt="1599429367738" />
+<op n="59" tc="1599429365438" pu="0" />
+<op n="60" tc="1599429365438" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.dialer">
+<uid n="10023" p="true">
+<op n="6" tb="1599429366654" pu="0" pp="com.android.providers.blockednumber" />
+<op n="51" tf="1599429366936" tb="1599429361235" tc="1599429361078" pu="0" />
+<op n="52" tb="1599316047970" pu="0" pp="com.android.providers.blockednumber" />
+<op n="59" tc="1599429361078" pu="0" />
+<op n="60" tc="1599429361078" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.partnersetup">
+<uid n="10024" p="true">
+<op n="59" tc="1599429366203" pu="0" />
+<op n="60" tc="1599429366203" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.googlequicksearchbox">
+<uid n="10025" p="true">
+<op n="0" tt="1599429366713" pu="0" />
+<op n="1" tt="1599429367521" pu="0" />
+<op n="2" tt="1599429367029" d="3044" />
+<op n="6" tt="1599429366492" pu="0" />
+<op n="8" tt="1599429368067" pu="0" pp="com.android.providers.calendar" />
+<op n="10" tt="1599316048291" pu="0" />
+<op n="27" tt="1599316050194" pu="0" />
+<op n="41" tt="1599429366854" d="3219" />
+<op n="42" tt="1599429366907" d="3166" />
+<op n="59" tt="1599429366666" tf="1599429365374" tc="1599429365334" pu="0" />
+<op n="60" tt="1599429366666" tf="1599429365374" tc="1599429365334" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.packageinstaller">
+<uid n="10027" p="true">
+<op n="59" tc="1599429369133" pu="0" />
+<op n="60" tc="1599429369133" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.android.providers.calendar">
+<uid n="10028" p="true">
+<op n="8" tf="1599429368067" tb="1599429366960" />
+<op n="9" tb="1599429366960" />
+<op n="40" tb="1599429366964" d="5" />
+<op n="59" tc="1599429366898" pu="0" />
+<op n="60" tc="1599429366898" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.ims">
+<uid n="10029" p="true">
+<op n="15" rf="1599316048563" rb="1599429368408" />
+<op n="59" tc="1599429368055" pu="0" />
+<op n="60" tc="1599429368055" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.ext.services">
+<uid n="10030" p="true">
+<op n="59" tc="1599429360195" pu="0" />
+<op n="60" tc="1599429360195" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.gms">
+<uid n="10031" p="true">
+<op n="0" tt="1599316047205" tfs="1599316048398" tf="1599429369813" tb="1599429365366" pu="0" />
+<op n="1" tt="1599316047071" tfs="1599316049213" tf="1599429369265" pu="0" />
+<op n="4" tt="1599316045898" tfs="1599316049627" tf="1599429368822" pu="0" pp="com.android.providers.blockednumber" />
+<op n="5" tf="1599429368819" />
+<op n="6" tfs="1599316049546" pu="0" pp="com.android.providers.blockednumber" />
+<op n="10" tt="1599316047205" tfs="1599316047624" tf="1599429369813" pu="0" />
+<op n="14" tt="1599316047058" tfs="1599316049540" tf="1599429368593" />
+<op n="23" rt="1599316044889" rf="1599429368687" />
+<op n="40" tt="1599316043396" tfs="1599316047365" tf="1599429368309" d="1764" />
+<op n="41" tt="1599316044890" tfs="1599316047365" tf="1599429367050" d="3023" />
+<op n="43" rt="1599316046174" rfs="1599316051090" rf="1599429369534" />
+<op n="51" tt="1599316047058" tf="1599429368593" />
+<op n="55" tf="1599429368580" pu="0" />
+<op n="59" tt="1599316043953" tfs="1599316051113" tf="1599429369064" tb="1599429365076" tc="1599429360882" pu="0" />
+<op n="60" tt="1599316043953" tfs="1599316051113" tf="1599429369064" tb="1599429365076" tc="1599429360882" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.gsf">
+<uid n="10031" p="true">
+<op n="59" tf="1599429365908" tb="1599429365239" pu="0" />
+<op n="60" tf="1599429365908" tb="1599429365239" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.android.systemui">
+<uid n="10032" p="true">
+<op n="40" tp="1599429361563" d="603" />
+<op n="59" tp="1599429361234" tc="1599429359802" pu="0" />
+<op n="60" tc="1599429359802" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.onetimeinitializer">
+<uid n="10033" p="true">
+<op n="59" tc="1599429369042" pu="0" />
+<op n="60" tc="1599429369042" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.apps.restore">
+<uid n="10034" p="true">
+<op n="40" tf="1599316043350" tc="1599316044407" d="1057" />
+<op n="59" tc="1599316043058" pu="0" />
+<op n="60" tc="1599316043058" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.android.cellbroadcastreceiver">
+<uid n="10036" p="true">
+<op n="59" tc="1599429361402" pu="0" />
+<op n="60" tc="1599429361402" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.android.managedprovisioning">
+<uid n="10038" p="true">
+<op n="59" tc="1599429366850" pu="0" />
+<op n="60" tc="1599429366850" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.android.printspooler">
+<uid n="10042" p="false">
+<op n="59" tc="1599429365592" pu="0" />
+<op n="60" tc="1599429365592" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.deskclock">
+<uid n="10046" p="false">
+<op n="40" tb="1599429365075" tc="1599316047917" d="7" />
+<op n="59" tc="1599429360811" pu="0" />
+<op n="60" tc="1599429360811" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.calendar">
+<uid n="10052" p="false">
+<op n="8" tf="1599316043542" tb="1599429367928" pu="0" pp="com.android.providers.calendar" />
+<op n="59" tc="1599429367816" pu="0" />
+<op n="60" tc="1599429367816" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.apps.maps">
+<uid n="10053" p="false">
+<op n="0" tb="1599316050402" tc="1599429369010" pu="0" />
+<op n="1" tb="1599429366087" pu="0" />
+<op n="10" tb="1599316050402" tc="1599429369010" pu="0" />
+<op n="59" tb="1599429366121" tc="1599429365341" pu="0" />
+<op n="60" tb="1599429366121" tc="1599429365341" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.inputmethod.latin">
+<uid n="10056" p="false">
+<op n="59" tb="1599316044045" tc="1599429359790" pu="0" />
+<op n="60" tb="1599316044045" tc="1599429359790" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.syncadapters.contacts">
+<uid n="10062" p="false">
+<op n="59" tc="1599429369433" pu="0" />
+<op n="60" tc="1599429369433" pu="0" />
+<op n="63" tb="1599429369498" tc="1599429369433" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.apps.photos">
+<uid n="10065" p="false">
+<op n="59" tb="1599429366011" tc="1599429365550" pu="0" />
+<op n="60" tb="1599429366011" tc="1599429365550" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.youtube">
+<uid n="10067" p="false">
+<op n="40" tb="1599316045014" tc="1599316045014" d="13" />
+<op n="59" tb="1599429370066" tc="1599429369729" pu="0" />
+<op n="60" tb="1599429370066" tc="1599429369729" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.android.smspush">
+<uid n="10068" p="false">
+<op n="59" tc="1599429365376" pu="0" />
+<op n="60" tc="1599429365376" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.videos">
+<uid n="10070" p="false">
+<op n="40" tb="1599429369722" />
+<op n="59" tc="1599429369499" pu="0" />
+<op n="60" tc="1599429369499" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.android.chrome">
+<uid n="10076" p="false">
+<op n="59" tb="1599429368123" tc="1599429368049" pu="0" />
+<op n="60" tb="1599429368123" tc="1599429368049" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.apps.messaging">
+<uid n="10077" p="false">
+<op n="14" tb="1599429367576" pu="0" pp="com.android.phone" />
+<op n="15" m="0" tb="1599429367626" pu="0" />
+<op n="40" tfs="1599316051181" tf="1599316049386" tb="1599316050938" d="1133" />
+<op n="43" rfs="1599316051167" rb="1599429367689" />
+<op n="51" tfs="1599316051548" tf="1599316049326" tb="1599429369706" pu="0" />
+<op n="59" tb="1599429367700" tc="1599429367214" pu="0" />
+<op n="60" tb="1599429367700" tc="1599429367214" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.android.camera2">
+<uid n="10079" p="false">
+<op n="59" tc="1599316049115" pu="0" />
+<op n="60" tc="1599316049115" pu="0" />
+<op n="63" tc="1599316049115" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.android.traceur">
+<uid n="10080" p="false">
+<op n="59" tc="1599429367113" pu="0" />
+<op n="60" tc="1599429367113" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.gm">
+<uid n="10084" p="false">
+<op n="4" tf="1599316046179" tb="1599429366345" />
+<op n="40" tf="1599316046181" tb="1599316048645" d="2571" />
+<op n="59" tf="1599316046213" tb="1599429366358" tc="1599429366048" pu="0" />
+<op n="60" tf="1599316046213" tb="1599429366358" tc="1599429366048" pu="0" />
+</uid>
+</pkg>
+</app-ops>
